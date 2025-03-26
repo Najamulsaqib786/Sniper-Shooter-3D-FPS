@@ -24,12 +24,11 @@ As the **Indie Game Developer**, I handled:
 🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.aero.elite.sniper.commando.strike)
 
 ## 📷 Screenshots
-(Include gameplay images here)
 
 ## 📜 About the Development
 - Built using **Unity Engine**
 - Optimized for **Android devices**
-- Developed as part of my work at **[Company Name]**
+- Developed as part of my work at **Next Door Games Studio**
 - 3D assets and UI provided by the designer and 3D artist
 
 ---
