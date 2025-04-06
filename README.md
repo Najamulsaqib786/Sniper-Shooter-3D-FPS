@@ -23,7 +23,6 @@ As the **Indie Game Developer**, I handled:
 ## 📲 Play the Game
 🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.aero.elite.sniper.commando.strike)
 
-## 📷 Screenshots
 
 ## 📜 About the Development
 - Built using **Unity Engine**
